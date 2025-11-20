@@ -4,7 +4,8 @@ This repository serves as my professional portfolio, showcasing certifications, 
 
 ## 🔗 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/mousmi3/
-- **Email:** mousmi@example.com
+- **Email:** mousmid363@gmail.com
+
 
 
 ### ⭐ Why this repo?
